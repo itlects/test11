@@ -1,6 +1,7 @@
 "branch1 commit" 
 
 
+<<<<<<< HEAD
 add branch1 + hello
 
 
@@ -8,3 +9,7 @@ add branch1 + hello
 hotfix + branch1 + hello
 
  
+=======
+amend commit from branch1
+
+>>>>>>> branch2
